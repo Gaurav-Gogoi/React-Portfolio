@@ -30,6 +30,16 @@ const projects = [
     demoUrl: "https://megablog-peach.vercel.app/signup",
     githubUrl: "https://github.com/Gaurav-Gogoi/Blog-App",
   },
+  {
+    id: 4,
+    title: "Full Stack Django App",
+    description:
+      "A full working app with crud operation .",
+    image: "/projects/django.png",
+    tags: ["Python", "Django"],
+    demoUrl: "https://chaiheadq-django.onrender.com/",
+    githubUrl: "https://github.com/Gaurav-Gogoi/chaiheadq-django",
+  },
 ];
 
 export const ProjectsSection = () => {
