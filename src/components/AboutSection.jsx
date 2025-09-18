@@ -31,7 +31,7 @@ export const AboutSection = () => {
               </a>
 
               <a
-                href="./projects/Gaurav Resume.pdf"
+                href="./projects/Gaurav_Gogoi_Fresher_Software_Developer.pdf"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
                 Download CV
