@@ -11,7 +11,7 @@ const projects = [
     githubUrl:"https://github.com/Gaurav-Gogoi/AI-Powered-CRM",
   },
   {
-    id: 1,
+    id: 2,
     title: "Chat App",
     description: "A real-time chat app made using react and django channels.",
     image: "/projects/chat app.png",
@@ -20,7 +20,7 @@ const projects = [
     githubUrl:"https://github.com/Gaurav-Gogoi/chat_app",
   },
   {
-    id: 1,
+    id: 3,
     title: "Spotify UI Clone",
     description: "A Spotify app using Javascript HTML and CSS.",
     image: "/projects/spotify ui clone.png",
@@ -29,7 +29,7 @@ const projects = [
     githubUrl:"https://github.com/Gaurav-Gogoi/Spotify-clone-UI",
   },
   {
-    id: 2,
+    id: 4,
     title: "Portfolio",
     description:
     "A potfolio made with Vanilla Js ",
@@ -39,7 +39,7 @@ const projects = [
     githubUrl: "https://github.com/Gaurav-Gogoi/codsoft-internship-Portfolio",
   },
   {
-    id: 3,
+    id: 5,
     title: "Blog-App",
     description:
       "A full working blog app with crud operation using appwrite as backend.",
@@ -49,7 +49,7 @@ const projects = [
     githubUrl: "https://github.com/Gaurav-Gogoi/Blog-App",
   },
   {
-    id: 4,
+    id: 6,
     title: "Full Stack Django App",
     description:
       "A full working app with crud operation .",
