@@ -3,6 +3,24 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
+    title: "AI CRM",
+    description: "A form which can be filled using natural language.",
+    image: "/projects/AI CRM.png",
+    tags: ["Javascript", "TailwindCSS"],
+    demoUrl:"https://ai-powered-crm-dun.vercel.app/",
+    githubUrl:"https://github.com/Gaurav-Gogoi/AI-Powered-CRM",
+  },
+  {
+    id: 1,
+    title: "Chat App",
+    description: "A real-time chat app made using react and django channels.",
+    image: "/projects/chat app.png",
+    tags: ["Javascript", "TailwindCSS"],
+    demoUrl:"https://chat-app-jet-seven-68.vercel.app/",
+    githubUrl:"https://github.com/Gaurav-Gogoi/chat_app",
+  },
+  {
+    id: 1,
     title: "Spotify UI Clone",
     description: "A Spotify app using Javascript HTML and CSS.",
     image: "/projects/spotify ui clone.png",
